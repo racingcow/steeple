@@ -1,0 +1,5 @@
+# git ignore file
+_ReSharper.steeple/
+App_Data/
+bin/
+obj/

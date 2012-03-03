@@ -1,0 +1,19 @@
+@{
+    ViewBag.Title = "Welcome to ASP.NET Single Page Application";
+}
+<script type="text/javascript">
+    $(document).ready(function () {
+        ko.applyBindings(new Steeple.SteepleModel());        
+    });
+</script>
+<button data-bind="click: addPrayer">Create New</button>
+<table data-bind="visible: uimode() === Steeple.UIModes.PrayerList">
+    <thead>
+        <tr><td>Title</td></tr>
+    </thead>
+    <tbody data-bind="foreach: prayers">    
+        <tr>
+            <td data-bind="text: title"></td>            
+        </tr>
+    </tbody>
+</table>

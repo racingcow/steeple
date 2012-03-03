@@ -1,0 +1,101 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Controllers/f:UserController.cs" caret="682" fromTop="24" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/f:Web.config" caret="3912" fromTop="38" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Controllers/f:HomeController.cs" caret="309" fromTop="13" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Models/f:TodoItem.cs" caret="0" fromTop="0" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/f:openid-jquery.js" caret="768" fromTop="19" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Attributes/f:OpenIdAuthorizeAttribute.cs" caret="75" fromTop="4" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/f:Global.asax.cs" caret="926" fromTop="18" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:User/f:Login.cshtml" caret="215" fromTop="5" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:Shared/f:_Layout.cshtml" caret="1272" fromTop="17" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:prayer.js" caret="221" fromTop="6" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:entry.js" caret="73" fromTop="2" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:uimodes.js" caret="158" fromTop="6" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/f:knockout-2.0.0.js" caret="1965" fromTop="18" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:steeplemodel.js" caret="218" fromTop="8" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:Home/f:Index.cshtml" caret="571" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Controllers/f:HomeController.cs" caret="195" fromTop="9" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Controllers/f:HomeController.cs" caret="309" fromTop="13" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:Home/f:Index.cshtml" caret="571" fromTop="16" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Attributes/f:OpenIdAuthorizeAttribute.cs" caret="550" fromTop="14" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Attributes/f:OpenIdAuthorizeAttribute.cs" caret="523" fromTop="15" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Attributes/f:OpenIdAuthorizeAttribute.cs" caret="267" fromTop="11" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Attributes/f:OpenIdAuthorizeAttribute.cs" caret="235" fromTop="9" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:User/f:Login.cshtml" caret="37" fromTop="3" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:User/f:Login.cshtml" caret="300" fromTop="5" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:steeplemodel.js" caret="568" fromTop="14" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/f:Global.asax.cs" caret="1464" fromTop="22" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:Shared/f:_Layout.cshtml" caret="1176" fromTop="12" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:Home/f:Index.cshtml" caret="74" fromTop="3" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:Home/f:Index.cshtml" caret="111" fromTop="4" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:steeplemodel.js" caret="540" fromTop="6" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:uimodes.js" caret="193" fromTop="15" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:uimodes.js" caret="157" fromTop="4" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:Shared/f:_Layout.cshtml" caret="809" fromTop="10" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:steeplemodel.js" caret="47" fromTop="2" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:prayer.js" caret="350" fromTop="9" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:entry.js" caret="201" fromTop="7" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:entry.js" caret="73" fromTop="2" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:prayer.js" caret="313" fromTop="8" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:Home/f:Index.cshtml" caret="197" fromTop="5" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:uimodes.js" caret="158" fromTop="6" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:steeplemodel.js" caret="218" fromTop="8" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:Home/f:Index.cshtml" caret="520" fromTop="15" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Scripts/d:model/f:steeplemodel.js" caret="519" fromTop="17" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:Home/f:Index.cshtml" caret="352" fromTop="9" />
+      <File id="65B6FE27-0B49-477C-861D-000BCE0B8516/d:Views/d:Home/f:Index.cshtml" caret="571" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="Web" priority="0" />
+      <Item value="httpContext" priority="1" />
+      <Item value="return" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="BundleTable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContextBase">
+      <Item value="Request" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequestBase">
+      <Item value="UrlReferrer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Optimization.BundleTable">
+      <Item value="Bundles" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Optimization.BundleCollection">
+      <Item value="EnableDefaultBundles`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
