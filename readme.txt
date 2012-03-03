@@ -3,4 +3,4 @@ steeple is an online prayer journal. It focuses on the following design goals...
 * Cross platform/device compatiblity
 * Quick data entry
 
-test change
+test change again
