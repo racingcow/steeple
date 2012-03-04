@@ -1,2 +1,8 @@
-cd g:\dev\racingcow\prayerjournal\steeple
-git push origin master
+function PushToGitHub
+{
+	param([string]$repoPath)
+	cd $repoPath
+	git push origin master --v
+}
+
+PushToGitHub $args[0]
