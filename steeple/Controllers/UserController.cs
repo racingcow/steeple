@@ -12,16 +12,6 @@ namespace prayerapp.Controllers
 
         private static readonly OpenIdRelyingParty m_openid = new OpenIdRelyingParty();
 
-        public ActionResult Index()
-        {
-            if (!User.Identity.IsAuthenticated)
-            {
-                Response.Redirect("~/User/Login?ReturnUrl=Index");
-            }
-
-            return View("Index");
-        }
-
         public ActionResult Logout()
         {
             FormsAuthentication.SignOut();
